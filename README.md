@@ -15,15 +15,7 @@ also utilizing ASP (Answer Set Programming).
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Pierf22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Pierf22?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Pierf22?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<a href="mailto:pier.napoliyahoo.it">
-  <img alt="Email" title="Email me" src="https://custom-icon-badges.demolab.com/badge/-Email%20me-FF0000?style=for-the-badge&labelColor=8B0000&logo=mail"/>
-</a>
 
-
-
-<a href="discordapp.com/users/1211690539959975948">
-  <img alt="Discord" title="Join me on Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-800080?style=for-the-badge&labelColor=4B0082&logo=discord"/>
-</a>
 
 
 
