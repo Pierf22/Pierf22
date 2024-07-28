@@ -52,7 +52,7 @@ I am a computer science student passionate about coding and constantly seeking t
 
 ### 📊 Stats
 <div  style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierf22&show_icons=true&theme=onedark" style="height: 220px; width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pierf22&show_icons=true&theme=onedark" style="height: 200px; width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierf22&layout=compact&theme=onedark" style="height: 200px; width: 48%;" />
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=pierf22&theme=onedark" style="height: 200px; width: 100%;" />
     
