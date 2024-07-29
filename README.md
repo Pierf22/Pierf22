@@ -53,6 +53,78 @@ I am a computer science student passionate about coding and constantly seeking t
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 74.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 21 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                170 commits         ████████░░░░░░░░░░░░░░░░░   30.47 % 
+🌆 Daytime                194 commits         █████████░░░░░░░░░░░░░░░░   34.77 % 
+🌃 Evening                192 commits         █████████░░░░░░░░░░░░░░░░   34.41 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Tuesday                  51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Wednesday                59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Thursday                 64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Friday                   60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 138 commits         ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+Sunday                   147 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     12 repos            ████████████████████░░░░░   80.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Assembly                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Pierf22/Pierf22/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/07/2024 05:03:41 UTC
 <!--END_SECTION:waka-->
 
 
