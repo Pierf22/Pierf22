@@ -50,13 +50,9 @@ I am a computer science student passionate about coding and constantly seeking t
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a></p>
 
 
-### 📊 Stats
-<div  style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierf22&show_icons=true&theme=onedark" style="height: 200px; width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierf22&layout=compact&theme=onedark" style="height: 200px; width: 48%;" />
-    <br> <br> <br>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=pierf22&theme=onedark" style="height: 200px; width: 100%;" />
-    
-</div>
+## 📊 Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
