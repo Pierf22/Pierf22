@@ -25,10 +25,10 @@ I am a computer science student passionate about coding and constantly seeking t
 
 ## :computer: Domains of Interest
 * Cybersecurity
-* Mobile Developement
-* ASP (Answer Set Programming)
-* Artificial Intelligence
 * Frontend and Backend Web Development
+* Mobile Developement
+* Artificial Intelligence
+* ASP (Answer Set Programming)
 
 
 
