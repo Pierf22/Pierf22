@@ -57,8 +57,6 @@ I am a computer science student passionate about coding and constantly seeking t
 
 > 📦 74.5 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -124,7 +122,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pierf22/Pierf22/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 04:45:58 UTC
+ Last Updated on 01/08/2024 18:40:20 UTC
 <!--END_SECTION:waka-->
 
 
