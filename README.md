@@ -85,16 +85,18 @@ Sunday                   161 commits         ███████░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     4 mins              ██████████████░░░░░░░░░░░   57.07 % 
+Python                   2 mins              ██████████░░░░░░░░░░░░░░░   40.28 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Secure-ASP               7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,7 +112,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2024 06:27:26 UTC
+ Last Updated on 06/12/2024 06:27:22 UTC
 <!--END_SECTION:waka-->
 
 
