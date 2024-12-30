@@ -58,33 +58,85 @@ I am a computer science student passionate about coding and constantly seeking t
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-Code Time:
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%2046%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 495.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 267 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-Last 7 days:             6 hrs 25 mins
-Last 30 days:            8 hrs 28 mins
-Last 365 days:           354 hrs 46 mins
-All time:                354 hrs 46 mins
+🌞 Morning                203 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
+🌆 Daytime                206 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌃 Evening                211 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
-Projects and Languages:
+📅 **I'm Most Productive on Sunday** 
+
 ```text
-Last 7 days                            | Last 30 days                           | Last 365 days                            | All time                                
-                                       |                                        |                                          |                                         
-Projects:                              | Projects:                              | Projects:                                | Projects:                               
-Work/Private Projects    6 hrs 25 mins | Work/Private Projects    8 hrs 21 mins | Secure-ASP               175 hrs 8 mins  | Secure-ASP               175 hrs 9 mins 
-                                       | Secure-ASP               7 mins        | Work/Private Projects    125 hrs 34 mins | Work/Private Projects    125 hrs 34 mins
-                                       |                                        | OnlyCards                50 hrs 54 mins  | OnlyCards                50 hrs 54 mins 
-                                       |                                        | programming-test-Pierf22 2 hrs 9 mins    | programming-test-Pierf22 2 hrs 9 mins   
-                                       |                                        | this-is-not-the-1st-oc... 58 mins        | this-is-not-the-1st-oc... 58 mins       
-                                       |                                        |                                          |                                         
-Languages:                             | Languages:                             | Languages:                               | Languages:                              
-C#                       4 hrs 27 mins | C#                       6 hrs 20 mins | Python                   93 hrs 19 mins  | Python                   93 hrs 19 mins 
-Python                   1 hr 53 mins  | Python                   1 hr 56 mins  | Java                     56 hrs 57 mins  | Java                     56 hrs 57 mins 
-Markdown                 2 mins        | HTML                     4 mins        | TypeScript               56 hrs 38 mins  | TypeScript               56 hrs 38 mins 
-JSON                     1 min         | Markdown                 2 mins        | Kotlin                   55 hrs 36 mins  | Kotlin                   55 hrs 36 mins 
-Text                     0 secs        | Other                    2 mins        | HTML                     51 hrs 59 mins  | HTML                     51 hrs 59 mins 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Friday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Sunday                   161 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 ```
-Updated at 2024-12-30 07:18:02 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+C#                       4 hrs 27 mins       █████████████████░░░░░░░░   69.36 % 
+Python                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 25 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+unicalgameforge          4 hrs 27 mins       █████████████████░░░░░░░░   69.36 % 
+waka-readme-stats        1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   30.01 % 
+repo                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+
+💻 Operating System: 
+Linux                    6 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     12 repos            █████████████████░░░░░░░░   66.67 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Pierf22/Pierf22/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/12/2024 07:43:19 UTC
 <!--END_SECTION:waka-->
 
 
