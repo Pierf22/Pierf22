@@ -58,15 +58,33 @@ I am a computer science student passionate about coding and constantly seeking t
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
+Code Time:
 
-```txt
-Python                                 ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Java                                   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-TypeScript                             ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Kotlin                                 ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-HTML                                   ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+```text
+Last 7 days:             6 hrs 25 mins
+Last 30 days:            8 hrs 28 mins
+Last 365 days:           354 hrs 46 mins
+All time:                354 hrs 46 mins
 ```
-
+Projects and Languages:
+```text
+Last 7 days                            | Last 30 days                           | Last 365 days                            | All time                                
+                                       |                                        |                                          |                                         
+Projects:                              | Projects:                              | Projects:                                | Projects:                               
+Work/Private Projects    6 hrs 25 mins | Work/Private Projects    8 hrs 21 mins | Secure-ASP               175 hrs 8 mins  | Secure-ASP               175 hrs 9 mins 
+                                       | Secure-ASP               7 mins        | Work/Private Projects    125 hrs 34 mins | Work/Private Projects    125 hrs 34 mins
+                                       |                                        | OnlyCards                50 hrs 54 mins  | OnlyCards                50 hrs 54 mins 
+                                       |                                        | programming-test-Pierf22 2 hrs 9 mins    | programming-test-Pierf22 2 hrs 9 mins   
+                                       |                                        | this-is-not-the-1st-oc... 58 mins        | this-is-not-the-1st-oc... 58 mins       
+                                       |                                        |                                          |                                         
+Languages:                             | Languages:                             | Languages:                               | Languages:                              
+C#                       4 hrs 27 mins | C#                       6 hrs 20 mins | Python                   93 hrs 19 mins  | Python                   93 hrs 19 mins 
+Python                   1 hr 53 mins  | Python                   1 hr 56 mins  | Java                     56 hrs 57 mins  | Java                     56 hrs 57 mins 
+Markdown                 2 mins        | HTML                     4 mins        | TypeScript               56 hrs 38 mins  | TypeScript               56 hrs 38 mins 
+JSON                     1 min         | Markdown                 2 mins        | Kotlin                   55 hrs 36 mins  | Kotlin                   55 hrs 36 mins 
+Text                     0 secs        | Other                    2 mins        | HTML                     51 hrs 59 mins  | HTML                     51 hrs 59 mins 
+```
+Updated at 2024-12-30 07:18:02 (UTC) using [ZerGo0/wakatime-profile-stats](https://github.com/ZerGo0/wakatime-profile-stats)
 <!--END_SECTION:waka-->
 
 
