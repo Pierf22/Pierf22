@@ -58,7 +58,7 @@ I am a computer science student passionate about coding and constantly seeking t
 ## 📊 Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,7 +66,7 @@ I am a computer science student passionate about coding and constantly seeking t
 
 > 📦 495.4 kB Used in GitHub's Storage 
  > 
-> 🏆 269 Contributions in the Year 2024
+> 🏆 267 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,7 +136,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Pierf22/Pierf22/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2024 08:29:46 UTC
+ Last Updated on 30/12/2024 08:33:06 UTC
 <!--END_SECTION:waka-->
 
 
