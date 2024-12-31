@@ -47,13 +47,17 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi,unity,spring,angular,androidstudio,docker,postgres,postman,mysql,mongodb" alt="Technologies I Use" />
- <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1024px-Ionic_Logo.svg.png" alt="Ionic" width="80" height="40"/>
+  </a>
+  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1024px-Ionic_Logo.svg.png" alt="Ionic" width="70" height="30" />
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="MariaDB" width="40" height="40"/>
+    <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_blue.svg" alt="MariaDB" width="40" height="40" />
   </a>
 </p>
+
+
+
 
 
 ## 📊 Stats
