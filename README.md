@@ -1,5 +1,6 @@
 # 👨🏻‍💻 **Pierfrancesco Napoli**
 **`Full Stack Enthusiast`** **`Student`**
+**`Graduated in Computer Science `**
 
 I am a **Master's Degree student** in Computer Science with a Bachelor's degree in the same field. As a passionate developer, I am constantly looking for opportunities to expand my knowledge and tackle new challenges. 💻🚀
 
