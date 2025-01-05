@@ -57,12 +57,6 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 </p>
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierf22&layout=compact&langs_count=6&theme=dark)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pierf22&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pierf22&theme=dark)
 
 ## 📊 Stats
 
