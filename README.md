@@ -66,8 +66,6 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 
 > 📦 495.6 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -101,18 +99,16 @@ Sunday                   165 commits         ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   3 hrs 42 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   81.53 % 
-Text                     50 mins             ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-esame                    2 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   64.46 % 
-CyberChallenge           1 hr 36 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.54 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 32 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -128,7 +124,7 @@ Shell                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 04/02/2025 05:16:01 UTC
+ Last Updated on 05/02/2025 05:17:14 UTC
 <!--END_SECTION:waka-->
 
 
