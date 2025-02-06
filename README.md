@@ -66,6 +66,8 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 
 > 📦 495.6 kB Used in GitHub's Storage 
  > 
+> 🏆 7 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -124,7 +126,7 @@ Shell                    1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 05/02/2025 05:17:14 UTC
+ Last Updated on 06/02/2025 05:17:49 UTC
 <!--END_SECTION:waka-->
 
 
