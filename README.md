@@ -46,7 +46,7 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 
 ## 🧭 Technologies I Use
 <p align="left">
-  <a href="https://crewia.io/" target="_blank" rel="noreferrer">
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" alt="Crewia" width="40" height="40" />
   </a>
   <a href="https://cheshirecat.ai/" target="_blank" rel="noreferrer">
