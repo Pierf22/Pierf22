@@ -25,10 +25,9 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 
 ## :computer: Domains of Interest
 * Cybersecurity
+* Artificial Intelligence
 * Frontend and Backend Web Development
 * Mobile Developement
-* Artificial Intelligence
-* ASP (Answer Set Programming)
 
 
 
@@ -37,7 +36,7 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
 ## 🖋️ Languages I know
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,ts,js,css,html,kotlin,perl,cpp,bash" alt="Languages I know" />
+    <img src="https://skillicons.dev/icons?i=py,java,cs,ts,js,css,html,kotlin,perl,cpp,bash" alt="Languages I know" />
   </a>
 </p>
 
