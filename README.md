@@ -52,7 +52,7 @@ I am a **Master's Degree student** in Computer Science with a Bachelor's degree 
     <img src="https://cheshirecat.ai/wp-content/uploads/2023/10/Logo-Cheshire-Cat.svg" alt="CheshireCat" width="40" height="40" />
   </a>
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi,unity,spring,angular,androidstudio,docker,postgres,postman,mysql,mongodb" alt="Technologies I Use" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,unity,spring,angular,androidstudio,docker,postgres,postman,mysql,mongodb" alt="Technologies I Use" />
   </a>
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1024px-Ionic_Logo.svg.png" alt="Ionic" width="70" height="30" />
