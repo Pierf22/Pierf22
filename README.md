@@ -2,7 +2,10 @@
 **`Full Stack Enthusiast`** **`Student`**
 **`Graduated in Computer Science `**
 
-I am a **Master's Degree student** in Computer Science with a Bachelor's degree in the same field. As a passionate developer, I am constantly looking for opportunities to expand my knowledge and tackle new challenges. 💻🚀
+I am a Computer Science graduate from @DeMaCS-UNICAL, currently pursuing a Master’s Degree in Artificial Intelligence and Computer Science. I work part-time at @altrama, where I actively contribute to innovative AI project.Im 23 years old, etc...
+
+
+<div align="center"> <div class="tenor-gif-embed" data-postid="5886142438989177391" data-share-method="host" data-aspect-ratio="1.96063" data-width="100%"> <a href="https://tenor.com/view/emo-gif-5886142438989177391">Emo GIF</a> from <a href="https://tenor.com/search/emo-gifs">Emo GIFs</a> </div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> <!-- Markdown fallback for GitHub preview --> <img src="https://media.tenor.com/2e1pR8NqgWwAAAAC/emo.gif" alt="Emo GIF" width="100%" /> </div> ---
 
 <p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 50px;">
 <a href="https://github.com/Pierf22/Pierf22/blob/3376a63ff62b5d89ae286d1e5cc89be924935e00/Napoli-Pierfrancesco-CV.pdf" target="_blank">
