@@ -3,7 +3,7 @@
 **`Graduated in Computer Science `**
 ## 🔮 Profile
 <div>
-  <img align="right" src="https://media1.tenor.com/m/Ua_HXLVNIi8AAAAC/emo.gif" width="460">
+  <img align="right" src="https://media1.tenor.com/m/Ua_HXLVNIi8AAAAC/emo.gif" width="460" style="margin-left: 40px; margin-bottom: 20px;">
   <p align="left">
 My name is Pierfrancesco.<br>
 I'm a <b>23-year-old Italian Computer Science graduate</b> from <a href="https://github.com/DeMaCS-UNICAL">@DeMaCS-UNICAL</a>, currently pursuing a <b>Master’s in Artificial Intelligence and Computer Science</b>.<br>
@@ -11,6 +11,8 @@ I work part-time at <a href="https://github.com/altrama">@altrama</a>, building 
 <br>
 I’m passionate about technology—especially where <b>AI and cybersecurity</b> meet.<br> 
 <br><br>
+  </p>
+</div>
 
 <p align="center" style="display: inline-flex; flex-wrap: wrap; gap: 50px;">
 <a href="https://github.com/Pierf22/Pierf22/blob/3376a63ff62b5d89ae286d1e5cc89be924935e00/Napoli-Pierfrancesco-CV.pdf" target="_blank">
